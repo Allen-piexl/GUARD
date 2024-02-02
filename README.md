@@ -1,2 +1,2 @@
-# Quack
-Quack: Automatic Jailbreaking Large Language Models via Role-playing
+# GUARD
+GUARD: Role-playing to Generate Natural-language Jailbreakings to Test Guideline Adherence of LLMs
